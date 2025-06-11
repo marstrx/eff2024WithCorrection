@@ -20,6 +20,29 @@ const expertsData = [
         "durée": 4
       }
     ]
+  },
+  // just for test q 3
+  {
+    "id": 2,
+    "nom_complet": "MARTIN Claire",
+    "événements": [
+      {
+        "thème": "Data Science",
+        "date_debut": "2024-05-10",
+        "date_fin": "2024-05-20",
+        "description": "Analyse de données et apprentissage automatique",
+        "cout_journalier": 600,
+        "durée": 3
+      },
+      {
+        "thème": "Sécurité Informatique",
+        "date_debut": "2024-06-01",
+        "date_fin": "2024-06-10",
+        "description": "Principes et pratiques de la cybersécurité",
+        "cout_journalier": 800,
+        "durée": 2
+      }
+    ]
   }
 ];
 
